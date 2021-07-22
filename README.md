@@ -16,6 +16,8 @@
 </p>
 
 
+## Contact me:
+
 <!-- Actual text -->
 
 You can find me on [![Instagram][1.2]][1], or on [![LinkedIn][2.2]][2].
