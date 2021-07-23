@@ -1,4 +1,4 @@
-### Welcome my Github page.  I'm Hakan Coskun. I am a computer engineer.  
+### Welcome to my Github page.  I'm Hakan Coskun. I am a computer engineer.  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hakancoskun11&show_icons=true&theme=merko)
 
