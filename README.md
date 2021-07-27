@@ -1,6 +1,6 @@
 ### Welcome to my Github page.  I'm Hakan Coskun. I am a computer engineer.  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hakancoskun11&show_icons=true&theme=merko)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hakancoskun11)](https://github.com/anuraghazra/github-readme-stats)
 
