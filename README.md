@@ -8,7 +8,7 @@
 I am Hakan Coskun
 
 
-## 🤔 Hello World!! 
+## Hello World!! 
 - 💬 Ask me about anything and everything.
 - 🎯 Check out my Instagram page [![INSTAGRAM](https://img.shields.io/badge/FOLLOW%20ME-Instagram-green&logo=instagram&logoColor=white)](https://www.instagram.com/vhakancoskun/)
 
