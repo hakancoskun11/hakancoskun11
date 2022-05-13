@@ -1,5 +1,5 @@
 <h2> Hi, I'm Hakan Coskun <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
-<h3> I'm a software developer. To contact me</h3>
+<h3> I'm a software developer. To contact me:</h3>
 
 <!-- <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width='200'/> -->
 
