@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software developer. I'm currently working on JVM ecosystem.</h3>
 
 
-- 👨‍💻 All of my projects are available at [https://hakancoskun11.github.io/](https://hakancoskun11.github.io/)
+<!-- - 👨‍💻 All of my projects are available at [https://hakancoskun11.github.io/](https://hakancoskun11.github.io/) -->
 
 - 📫 How to reach me **hakancoskundev@gmail.com**
 
