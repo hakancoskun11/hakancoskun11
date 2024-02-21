@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hakan Coskun</h1>
+<h1 align="center">Hi, I'm Hakan Coskun</h1>
 <h3 align="center">A passionate software developer. I'm currently working on JVM ecosystem.</h3>
 
 
